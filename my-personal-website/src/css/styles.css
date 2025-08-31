@@ -5,3 +5,11 @@ body {
     background: #f7f7f7;
     color: #222;
 }
+
+
+header {
+    background: #0077cc;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
