@@ -36,9 +36,3 @@ To run the project locally, follow these steps:
 - HTML5
 - CSS3
 - JavaScript
-
-## Author
-
-[Your Name] - [Your Contact Information] - [Your Portfolio or LinkedIn Profile] 
-
-Feel free to reach out for collaborations or inquiries!
